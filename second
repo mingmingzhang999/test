@@ -1,2 +1,7 @@
 this is the second page for new page.
+<<<<<<< HEAD
 add a new line.
+=======
+add a new line.add a new line.add a new line.
+add a new line again.
+>>>>>>> parent of 1d9b668... update a line
